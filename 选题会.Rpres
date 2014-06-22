@@ -98,6 +98,7 @@ vioplot(xunzilength, daizhenlength, names = c("荀子", "戴震"), col = "gold")
 ========================================================
 
 - http://ma.ronfe.net （尚在搭建）
-- https://github.com/chihungfei/xuanti
+- 項目文件與演示文稿源碼：https://github.com/chihungfei/xuanti  
+- 本幻燈片由R markdown寫成，Rpubs鏈接：http://rpubs.com/chihungfei/maxuanti  
     
 
